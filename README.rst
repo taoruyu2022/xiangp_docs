@@ -8,14 +8,11 @@ Welcome to Pan's notebook!
 
 
 
-项目主页: https://github.com/panxiang126/xiangp_docs
+项目主页 (Project Home): https://github.com/panxiang126/xiangp_docs
 
-Project Home: https://github.com/panxiang126/xiangp_docs
+中文版源码: https://github.com/panxiang126/xiangp_docs_zh
 
-
-中文版: https://github.com/panxiang126/xiangp_docs_zh
-
-English Edition: https://github.com/panxiang126/xiangp_docs_en
+English Edition Code: https://github.com/panxiang126/xiangp_docs_en
 
 
 中文文档: 
