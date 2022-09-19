@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = "理论计算学习笔记"
+project = "Theoretical Calculation Study Notebook"
 copyright = '2022, Pan Xiang'
 author = 'Pan Xiang'
 
