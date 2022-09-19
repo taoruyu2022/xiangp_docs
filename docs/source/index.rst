@@ -1,3 +1,4 @@
+===================================
 理论计算学习笔记
 ===================================
 
@@ -18,9 +19,11 @@
 
 联系我: panxiang126@gmail.com
 
-项目主页: https://github.com/panxiang126/xiangp_docs
+项目主页 (Project Home): https://github.com/panxiang126/xiangp_docs
 
-English Edition: 
+中文文档: https://pan-docs.readthedocs.io/en/chinese
+
+English Document: https://pan-docs.readthedocs.io/en/english
 
 
 目录

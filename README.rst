@@ -1,4 +1,5 @@
-理论计算学习笔记
+===================================
+欢迎来到《向盼的学习笔记》！
 ===================================
 
 理论计算在科学研究中占有越来越重要的地位, 这依赖于其方法和技术的快速迭代更新.
@@ -14,6 +15,9 @@
 
 联系我: panxiang126@gmail.com
 
-项目主页: https://github.com/panxiang126/xiangp_docs
 
-English Edition: 
+项目主页 (Project Home): https://github.com/panxiang126/xiangp_docs
+
+中文文档: https://pan-docs.readthedocs.io/en/chinese
+
+English Document: https://pan-docs.readthedocs.io/en/english
