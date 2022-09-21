@@ -14,7 +14,7 @@
 因本人水平有限, 不足之处在所难免, 敬请各位老师同学指正!
 
 
-:download:`下载源码 <https://github.com/panxiang126/notebook/archive/refs/heads/Chinese.zip>`.
+:download:`下载源码 <https://github.com/panxiang126/xiangp_docs/archive/refs/heads/chinese.zip>`.
 
 
 联系我: panxiang126@gmail.com
